@@ -10986,7 +10986,7 @@ textarea.form-control-lg {
   overflow: hidden;
   transition-duration: .3s;
   flex-direction: column; /* Default: Kolom (vertikal) */
-  background-color: #04414d;
+  
 }
 /* instagram*/
 .containerOne:hover {
